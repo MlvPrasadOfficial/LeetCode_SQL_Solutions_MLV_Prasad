@@ -10,210 +10,214 @@ If you find this channel and this repository helpful, you can Support by donatin
 
 |S.No | Ques.No | Question Name | Category | Solution video | Code |
 |----------|----------|----------|----------|----------|----------|
-| 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-|   2 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |Row 1, Column 3 |Row 1, Column 3 |Row 1, Column 3 |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+| 1 | 0001| what is the  | Easy | - | -  |
+
