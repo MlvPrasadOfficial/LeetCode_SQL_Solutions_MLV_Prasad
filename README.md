@@ -8,6 +8,8 @@ This repository is an **All in one** Code Solution Repository  of [LEETCODE SQL 
 If you find this channel and this repository helpful, you can Support by donating at [PATREON](https://www.patreon.com/mlvprasadofficial) 💰
 
 
+
+
 |S.No | Ques.No | Question Name | Category | Solution video | Code |
 |-----|----------|----------|----------|----------|----------|
 | 01 | 0001| what is the  | Easy | - | -  |
