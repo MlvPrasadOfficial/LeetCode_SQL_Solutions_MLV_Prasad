@@ -112,26 +112,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 98 | 1355| Activity Participants | Medium | - | -  |
 | 99 | 1364| Number of Trusted Contacts of a Customer | Medium | - | -  |
 | 100 | 1369| Get the Second Most Recent Activity| Hard | - | -  |
-| 101 | 0001| what is the  | Easy | - | -  |
-| 102 | 0001| what is the  | Easy | - | -  |
-| 103 | 0001| what is the  | Easy | - | -  |
-| 104 | 0001| what is the  | Easy | - | -  |
-| 105 | 0001| what is the  | Easy | - | -  |
-| 106 | 0001| what is the  | Easy | - | -  |
-| 107 | 0001| what is the  | Easy | - | -  |
-| 108 | 0001| what is the  | Easy | - | -  |
-| 109 | 0001| what is the  | Easy | - | -  |
-| 110 | 0001| what is the  | Easy | - | -  |
-| 111 | 0001| what is the  | Easy | - | -  |
-| 112 | 0001| what is the  | Easy | - | -  |
-| 113 | 0001| what is the  | Easy | - | -  |
-| 114 | 0001| what is the  | Easy | - | -  |
-| 115 | 0001| what is the  | Easy | - | -  |
-| 116 | 0001| what is the  | Easy | - | -  |
-| 117 | 0001| what is the  | Easy | - | -  |
-| 118 | 0001| what is the  | Easy | - | -  |
-| 119 | 0001| what is the  | Easy | - | -  |
-| 120 | 0001| what is the  | Easy | - | -  |
+| 101 | 1378| Replace Employee ID With The Unique Identifier | Easy | - | -  |
+| 102 | 1384| Total Sales Amount by Year | Hard | - | -  |
+| 103 | 1393| Capital Gain/Loss  | Medium | - | -  |
+| 104 | 1398|  Customers Who Bought Products A and B but Not C | Medium | - | -  |
+| 105 | 1407| Top Travellers  | Easy | - | -  |
+| 106 | 1412| Find the Quiet Students in All Exams | Hard | - | -  |
+| 107 | 1421| NPV Queries | Easy | - | -  | 
+| 108 | 1435| Create a Session Bar Chart  | Easy | - | -  |
+| 109 | 1440| Evaluate Boolean Expression | Medium | - | -  |
+| 110 | 1445| Apples & Oranges | Medium | - | -  |
+| 111 | 1454| Active Users  | Medium | - | -  |
+| 112 | 1459| Rectangles Area| Medium | - | -  |
+| 113 | 1468| Calculate Salaries | Medium | - | -  |
+| 114 | 1479| Sales by Day of the Week| Hard | - | -  |
+| 115 | 1484| Group Sold Products By The Date | Easy | - | -  |
+| 116 | 1495| Friendly Movies Streamed Last Month  | Easy | - | -  |
+| 117 | 1501|Countries You Can Safely Invest In  | Medium | - | -  |
+| 118 | 1511|Customer Order Frequency| Easy | - | -  |
+| 119 | 1517| Find Users With Valid E-Mails | Easy | - | -  |
+| 120 | 1527|Patients With a Condition| Easy | - | -  |
 | 121 | 0001| what is the  | Easy | - | -  |
 | 122 | 0001| what is the  | Easy | - | -  |
 | 123 | 0001| what is the  | Easy | - | -  |
