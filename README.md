@@ -132,26 +132,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 118 | 1511|Customer Order Frequency| Easy | - | -  |
 | 119 | 1517| Find Users With Valid E-Mails | Easy | - | -  |
 | 120 | 1527|Patients With a Condition| Easy | - | -  |
-| 121 | 0001| what is the  | Easy | - | -  |
-| 122 | 0001| what is the  | Easy | - | -  |
-| 123 | 0001| what is the  | Easy | - | -  |
-| 124 | 0001| what is the  | Easy | - | -  |
-| 125 | 0001| what is the  | Easy | - | -  |
-| 126 | 0001| what is the  | Easy | - | -  |
-| 127 | 0001| what is the  | Easy | - | -  |
-| 128 | 0001| what is the  | Easy | - | -  |
-| 129 | 0001| what is the  | Easy | - | -  |
-| 130 | 0001| what is the  | Easy | - | -  |
-| 131 | 0001| what is the  | Easy | - | -  |
-| 132 | 0001| what is the  | Easy | - | -  |
-| 133 | 0001| what is the  | Easy | - | -  |
-| 134 | 0001| what is the  | Easy | - | -  |
-| 135 | 0001| what is the  | Easy | - | -  |
-| 136| 0001| what is the  | Easy | - | -  |
-| 137 | 0001| what is the  | Easy | - | -  |
-| 138 | 0001| what is the  | Easy | - | -  |
-| 139 | 0001| what is the  | Easy | - | -  |
-| 140 | 0001| what is the  | Easy | - | -  |
+| 121 | 1532|The Most Recent Three Orders  | Medium | - | -  |
+| 122 | 1543| Fix Product Name Format  | Easy | - | -  |
+| 123 | 1549|  The Most Recent Orders for Each Product | Medium | - | -  |
+| 124 | 1555| Bank Account Summary  | Medium | - | -  |
+| 125 | 1565| Unique Orders and Customers Per Month  | Easy | - | -  |
+| 126 | 1571|Warehouse Manager  | Easy | - | -  |
+| 127 | 1581| Customer Who Visited but Did Not Make Any Transactions | Easy | - | -  |
+| 128 | 1587| Bank Account Summary II  | Easy | - | -  |
+| 129 | 1596| The Most Frequently Ordered Products for Each Customer | Medium | - | -  |
+| 130 | 1607| Sellers With No Sales  | Easy | - | -  |
+| 131 | 1613| Find the Missing IDs  | Medium | - | -  |
+| 132 | 1623| All Valid Triplets That Can Represent a Country| Easy | - | -  |
+| 133 | 1633| Percentage of Users Attended a Contest| Easy | - | -  |
+| 134 | 1635| Hopper Company Queries I   | Hard | - | -  |
+| 135 | 1645| Hopper Company Queries II  | Hard | - | -  |
+| 136 | 1651| Hopper Company Queries III | Hard  | - | -  |
+| 137 | 1661| Average Time of Process per Machine| Easy | - | -  |
+| 138 | 1667| Fix Names in a Table | Easy | - | -  |
+| 139 | 1677| Product's Worth Over Invoices  | Easy | - | -  |
+| 140 | 1683| Invalid Tweets | Easy | - | -  |
 | 141 | 0001| what is the  | Easy | - | -  |
 | 142 | 0001| what is the  | Easy | - | -  |
 | 143 | 0001| what is the  | Easy | - | -  |
