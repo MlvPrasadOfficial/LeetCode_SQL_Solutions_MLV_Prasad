@@ -52,26 +52,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 38 | 612| Shortest Distance in a Plane  | Medium | - | -  |
 | 39 | 613| Shortest Distance in a Line  | Easy | - | -  |
 | 40 | 614| Second Degree Follower  | Medium | - | -  |
-| 41 | 0001| what is the  | Easy | - | -  |
-| 42 | 0001| what is the  | Easy | - | -  |
-| 43 | 0001| what is the  | Easy | - | -  |
-| 44 | 0001| what is the  | Easy | - | -  |
-| 45 | 0001| what is the  | Easy | - | -  |
-| 46 | 0001| what is the  | Easy | - | -  |
-| 47 | 0001| what is the  | Easy | - | -  |
-| 48 | 0001| what is the  | Easy | - | -  |
-| 49 | 0001| what is the  | Easy | - | -  |
-| 50 | 0001| what is the  | Easy | - | -  |
-| 51 | 0001| what is the  | Easy | - | -  |
-| 52 | 0001| what is the  | Easy | - | -  |
-| 53 | 0001| what is the  | Easy | - | -  |
-| 54 | 0001| what is the  | Easy | - | -  |
-| 55 | 0001| what is the  | Easy | - | -  |
-| 56 | 0001| what is the  | Easy | - | -  |
-| 57 | 0001| what is the  | Easy | - | -  |
-| 58 | 0001| what is the  | Easy | - | -  |
-| 59 | 0001| what is the  | Easy | - | -  |
-| 60 | 0001| what is the  | Easy | - | -  |
+| 41 | 615|  Average Salary: Departments VS Company| Hard | - | -  |
+| 42 | 618| Students Report By Geography| Hard | - | -  |
+| 43 | 619| Biggest Single Number  | Easy | - | -  |
+| 44 | 620| Not Boring Movies | Easy | - | -  |
+| 45 | 626| Exchange Seats | Medium | - | -  |
+| 46 | 627| Swap Salary | Easy | - | -  |
+| 47 | 1045|Customers Who Bought All Products  | Medium | - | -  |
+| 48 | 1050| Actors and Directors Who Cooperated At Least Three Times  | Easy | - | -  |
+| 49 | 1068| Product Sales Analysis I  | Easy | - | -  |
+| 50 | 1069| Product Sales Analysis II | Easy | - | -  |
+| 51 | 1070| Product Sales Analysis III  | Medium | - | -  |
+| 52 | 1075| Project Employees I  | Easy | - | -  |
+| 53 | 1076| Project Employees II  | Easy | - | -  |
+| 54 | 1077| Project Employees III| Medium | - | -  |
+| 55 | 1082| Sales Analysis I  | Easy | - | -  |
+| 56 | 1083| Sales Analysis II | Easy | - | -  |
+| 57 | 1084| Sales Analysis III  | Easy | - | -  |
+| 58 | 1097| Game Play Analysis V | Hard | - | -  |
+| 59 | 1098| Unpopular Books  | Medium| - | -  |
+| 60 | 1107| New Users Daily Count | Medium | - | -  |
 | 61 | 0001| what is the  | Easy | - | -  |
 | 62 | 0001| what is the  | Easy | - | -  |
 | 63 | 0001| what is the  | Easy | - | -  |
