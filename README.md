@@ -13,25 +13,25 @@ If you find this channel and this repository helpful, you can Support by donatin
 |S.No | Ques.No | Question Name | Category | Solution video | Code |
 |-----|----------|----------|----------|----------|----------|
 | 01 | 175| Combine Two Tables  | Easy | - | -  |
-| 02 | 176| Second Highest Salary  | Easy | - | -  |
-| 03 | 177| Nth Highest Salary  | Easy | - | -  |
-| 04 | 178| Rank Scores  | Easy | - | -  |
-| 05 | 180| Consecutive Numbers  | Easy | - | -  |
-| 06 | 0001| what is the  | Easy | - | -  |
-| 07 | 0001| what is the  | Easy | - | -  |
-| 08 | 0001| what is the  | Easy | - | -  |
-| 09 | 0001| what is the  | Easy | - | -  |
-| 10 | 0001| what is the  | Easy | - | -  |
-| 11 | 0001| what is the  | Easy | - | -  |
-| 12 | 0001| what is the  | Easy | - | -  |
-| 13 | 0001| what is the  | Easy | - | -  |
-| 14 | 0001| what is the  | Easy | - | -  |
-| 15 | 0001| what is the  | Easy | - | -  |
-| 16 | 0001| what is the  | Easy | - | -  |
-| 17 | 0001| what is the  | Easy | - | -  |
-| 18 | 0001| what is the  | Easy | - | -  |
-| 19 | 0001| what is the  | Easy | - | -  |
-| 20 | 0001| what is the  | Easy | - | -  |
+| 02 | 176| Second Highest Salary  | Medium | - | -  |
+| 03 | 177| Nth Highest Salary  | Medium | - | -  |
+| 04 | 178| Rank Scores  | Medium | - | -  |
+| 05 | 180| Consecutive Numbers  | Medium | - | -  |
+| 06 | 181| Employees Earning More Than Their Managers  | Easy | - | -  |
+| 07 | 182| Duplicate Emails | Easy | - | -  |
+| 08 | 183| Customers Who Never Order | Easy | - | -  |
+| 09 | 184| Department Highest Salary  | Medium | - | -  |
+| 10 | 185| Department Top Three Salaries  | Hard | - | -  |
+| 11 | 196| Delete Duplicate Emails | Easy | - | -  |
+| 12 | 197| Rising Temperature| Easy | - | -  |
+| 13 | 262| Trips and Users| Hard | - | -  |
+| 14 | 511| Game Play Analysis I  | Easy | - | -  |
+| 15 | 512| Game Play Analysis II  | Easy | - | -  |
+| 16 | 534| Game Play Analysis III  | Medium | - | -  |
+| 17 | 550| Game Play Analysis IV | Medium | - | -  |
+| 18 | 569| Median Employee Salary  | Hard | - | -  |
+| 19 | 570|  Managers with at Least 5 Direct Reports  | Medium | - | -  |
+| 20 | 571|Find Median Given Frequency of Numbers | Hard | - | -  |
 | 21 | 0001| what is the  | Easy | - | -  |
 | 22 | 0001| what is the  | Easy | - | -  |
 | 23 | 0001| what is the  | Easy | - | -  |
