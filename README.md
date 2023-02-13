@@ -32,26 +32,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 18 | 569| Median Employee Salary  | Hard | - | -  |
 | 19 | 570|  Managers with at Least 5 Direct Reports  | Medium | - | -  |
 | 20 | 571|Find Median Given Frequency of Numbers | Hard | - | -  |
-| 21 | 0001| what is the  | Easy | - | -  |
-| 22 | 0001| what is the  | Easy | - | -  |
-| 23 | 0001| what is the  | Easy | - | -  |
-| 24 | 0001| what is the  | Easy | - | -  |
-| 25 | 0001| what is the  | Easy | - | -  |
-| 26 | 0001| what is the  | Easy | - | -  |
-| 27 | 0001| what is the  | Easy | - | -  |
-| 28 | 0001| what is the  | Easy | - | -  |
-| 29 | 0001| what is the  | Easy | - | -  |
-| 30 | 0001| what is the  | Easy | - | -  |
-| 31 | 0001| what is the  | Easy | - | -  |
-| 32 | 0001| what is the  | Easy | - | -  |
-| 33 | 0001| what is the  | Easy | - | -  |
-| 34 | 0001| what is the  | Easy | - | -  |
-| 35 | 0001| what is the  | Easy | - | -  |
-| 36 | 0001| what is the  | Easy | - | -  |
-| 37 | 0001| what is the  | Easy | - | -  |
-| 38 | 0001| what is the  | Easy | - | -  |
-| 39 | 0001| what is the  | Easy | - | -  |
-| 40 | 0001| what is the  | Easy | - | -  |
+| 21 | 574|Winning Candidate | Medium | - | -  |
+| 22 | 577|Employee Bonus | Easy | - | -  |
+| 23 | 578| Get Highest Answer Rate Question | Medium | - | -  |
+| 24 | 579| Find Cumulative Salary of an Employee | Hard | - | -  |
+| 25 | 580| Count Student Number in Departments | Medium | - | -  |
+| 26 | 584| Find Customer Referee  | Easy | - | -  |
+| 27 | 585|  Investments in 2016 | Medium | - | -  |
+| 28 | 586|Customer Placing the Largest Number of Orders | Easy | - | -  |
+| 29 | 595| Big Countries | Easy | - | -  |
+| 30 | 596| Classes More Than 5 Students| Easy | - | -  |
+| 31 | 597|Friend Requests I: Overall Acceptance Rate | Easy | - | -  |
+| 32 | 601| Human Traffic of Stadium  | Hard | - | -  |
+| 33 | 602|  Friend Requests II: Who Has the Most Friends | Medium | - | -  |
+| 34 | 603| Consecutive Available Seats  | Easy | - | -  |
+| 35 | 607| Sales Person | Easy | - | -  |
+| 36 | 608| Tree Node  | Medium | - | -  |
+| 37 | 610|Triangle Judgement | Easy | - | -  |
+| 38 | 612| Shortest Distance in a Plane  | Medium | - | -  |
+| 39 | 613| Shortest Distance in a Line  | Easy | - | -  |
+| 40 | 614| Second Degree Follower  | Medium | - | -  |
 | 41 | 0001| what is the  | Easy | - | -  |
 | 42 | 0001| what is the  | Easy | - | -  |
 | 43 | 0001| what is the  | Easy | - | -  |
