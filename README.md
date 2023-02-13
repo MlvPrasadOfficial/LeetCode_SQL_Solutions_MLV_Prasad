@@ -72,26 +72,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 58 | 1097| Game Play Analysis V | Hard | - | -  |
 | 59 | 1098| Unpopular Books  | Medium| - | -  |
 | 60 | 1107| New Users Daily Count | Medium | - | -  |
-| 61 | 0001| what is the  | Easy | - | -  |
-| 62 | 0001| what is the  | Easy | - | -  |
-| 63 | 0001| what is the  | Easy | - | -  |
-| 64 | 0001| what is the  | Easy | - | -  |
-| 65 | 0001| what is the  | Easy | - | -  |
-| 66 | 0001| what is the  | Easy | - | -  |
-| 67 | 0001| what is the  | Easy | - | -  |
-| 68 | 0001| what is the  | Easy | - | -  |
-| 69 | 0001| what is the  | Easy | - | -  |
-| 70 | 0001| what is the  | Easy | - | -  |
-| 71 | 0001| what is the  | Easy | - | -  |
-| 72 | 0001| what is the  | Easy | - | -  |
-| 73 | 0001| what is the  | Easy | - | -  |
-| 74 | 0001| what is the  | Easy | - | -  |
-| 75 | 0001| what is the  | Easy | - | -  |
-| 76 | 0001| what is the  | Easy | - | -  |
-| 77 | 0001| what is the  | Easy | - | -  |
-| 78 | 0001| what is the  | Easy | - | -  |
-| 79 | 0001| what is the  | Easy | - | -  |
-| 80 | 0001| what is the  | Easy | - | -  |
+| 61 | 1112| Highest Grade For Each Student  | Medium | - | -  |
+| 62 | 1113| Reported Posts | Easy | - | -  |
+| 63 | 1126|  Active Businesses | Medium | - | -  |
+| 64 | 1127| User Purchase Platform  | Hard | - | -  |
+| 65 | 1132|Reported Posts II| Medium  | - | -  |
+| 66 | 1141| User Activity for the Past 30 Days I  | Easy | - | -  |
+| 67 | 1142| User Activity for the Past 30 Days II | Easy | - | -  |
+| 68 | 1148| Article Views I| Easy | - | -  |
+| 69 | 1149| Article Views II  | Medium | - | -  |
+| 70 | 1158| Market Analysis I  | Medium | - | -  |
+| 71 | 1159| Market Analysis II | Hard | - | -  |
+| 72 | 1164| Product Price at a Given Date  | Medium | - | -  |
+| 73 | 1173| Immediate Food Delivery I  | Easy | - | -  |
+| 74 | 1174|  Immediate Food Delivery II | Medium | - | -  |
+| 75 | 1179| Reformat Department Table | Easy | - | -  |
+| 76 | 1193| Monthly Transactions I  | Medium | - | -  |
+| 77 | 1194|Tournament Winners | Hard| - | -  |
+| 78 | 1204|Last Person to Fit in the Bus | Medium | - | -  |
+| 79 | 1205|Monthly Transactions II | Medium | - | -  |
+| 80 | 1211| Queries Quality and Percentage | Easy | - | -  |
 | 81 | 0001| what is the  | Easy | - | -  |
 | 82 | 0001| what is the  | Easy | - | -  |
 | 83 | 0001| what is the  | Easy | - | -  |
