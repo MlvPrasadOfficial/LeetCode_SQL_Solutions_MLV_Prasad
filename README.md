@@ -196,7 +196,7 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 182 | 2026|Low-Quality Problems | Easy | - | -  |
 | 183 | 2041| Accepted Candidates From the Interviews  | Medium | - | -  |
 | 184 | 2051| The Category of Each Member in the Store  | Medium | - | -  |
-| 185 | 2066| Account Balance  | EasMediumy | - | -  |
+| 185 | 2066| Account Balance  | Medium | - | -  |
 | 186 | 2072| The Winner University | Easy | - | -  |
 | 187 | 2082| The Number of Rich Customers  | Easy | - | -  |
 | 188 | 2084|  Drop Type 1 Orders for Customers With Type 0 Orders | Medium | - | -  |
