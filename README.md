@@ -192,26 +192,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 178 | 1990| Count the Number of Experiments| Medium| - | -  |
 | 179 | 2004| The Number of Seniors and Juniors to Join the Company | Hard | - | -  |
 | 180 | 2010| The Number of Seniors and Juniors to Join the Company II| Hard | - | -  |
-| 181 | 0001| what is the  | Easy | - | -  |
-| 182 | 0001| what is the  | Easy | - | -  |
-| 183 | 0001| what is the  | Easy | - | -  |
-| 184 | 0001| what is the  | Easy | - | -  |
-| 185 | 0001| what is the  | Easy | - | -  |
-| 186 | 0001| what is the  | Easy | - | -  |
-| 187 | 0001| what is the  | Easy | - | -  |
-| 188 | 0001| what is the  | Easy | - | -  |
-| 189 | 0001| what is the  | Easy | - | -  |
-| 190 | 0001| what is the  | Easy | - | -  |
-| 191 | 0001| what is the  | Easy | - | -  |
-| 192 | 0001| what is the  | Easy | - | -  |
-| 193 | 0001| what is the  | Easy | - | -  |
-| 194 | 0001| what is the  | Easy | - | -  |
-| 195 | 0001| what is the  | Easy | - | -  |
-| 196 | 0001| what is the  | Easy | - | -  |
-| 197 | 0001| what is the  | Easy | - | -  |
-| 198 | 0001| what is the  | Easy | - | -  |
-| 199 | 0001| what is the  | Easy | - | -  |
-| 200 | 0001| what is the  | Easy | - | -  |
+| 181 | 2020| Number of Accounts That Did Not Stream| Medium | - | -  |
+| 182 | 2026|Low-Quality Problems | Easy | - | -  |
+| 183 | 2041| Accepted Candidates From the Interviews  | Medium | - | -  |
+| 184 | 2051| The Category of Each Member in the Store  | Medium | - | -  |
+| 185 | 2066| Account Balance  | EasMediumy | - | -  |
+| 186 | 2072| The Winner University | Easy | - | -  |
+| 187 | 2082| The Number of Rich Customers  | Easy | - | -  |
+| 188 | 2084|  Drop Type 1 Orders for Customers With Type 0 Orders | Medium | - | -  |
+| 189 | 2112|  The Airport With the Most Traffic  | Medium | - | -  |
+| 190 | 2118| Build the Equation |Hard | - | -  |
+| 191 | 2142| The Number of Passengers in Each Bus I | Medium | - | -  |
+| 192 | 2153| The Number of Passengers in Each Bus II | Hard | - | -  |
+| 193 | 2159|  Order Two Columns Independently  | Medium| - | -  |
+| 194 | 2173|  Longest Winning Streak | Hard | - | -  |
+| 195 | 2175| The Change in Global Rankings |Medium | - | -  |
+| 196 | 2199| Finding the Topic of Each Post| Hard | - | -  |
+| 197 | 2205| The Number of Users That Are Eligible for Discount  | Easy | - | -  |
+| 198 | 2228|  Users With Two Purchases Within Seven Days|Medium | - | -  |
+| 199 | 2230| The Users That Are Eligible for Discount| Easy | - | -  |
+| 200 | 2238| Number of Times a Driver Was a Passenger | Medium | - | -  |
 | 201 | 0001| what is the  | Easy | - | -  |
 | 202 | 0001| what is the  | Easy | - | -  |
 | 203 | 0001| what is the  | Easy | - | -  |
