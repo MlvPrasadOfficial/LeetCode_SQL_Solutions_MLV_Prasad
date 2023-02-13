@@ -212,23 +212,23 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 198 | 2228|  Users With Two Purchases Within Seven Days|Medium | - | -  |
 | 199 | 2230| The Users That Are Eligible for Discount| Easy | - | -  |
 | 200 | 2238| Number of Times a Driver Was a Passenger | Medium | - | -  |
-| 201 | 0001| what is the  | Easy | - | -  |
-| 202 | 0001| what is the  | Easy | - | -  |
-| 203 | 0001| what is the  | Easy | - | -  |
-| 204 | 0001| what is the  | Easy | - | -  |
-| 205 | 0001| what is the  | Easy | - | -  |
-| 206 | 0001| what is the  | Easy | - | -  |
-| 207 | 0001| what is the  | Easy | - | -  |
-| 208 | 0001| what is the  | Easy | - | -  |
-| 209 | 0001| what is the  | Easy | - | -  |
-| 210 | 0001| what is the  | Easy | - | -  |
-| 211 | 0001| what is the  | Easy | - | -  |
-| 212 | 0001| what is the  | Easy | - | -  |
-| 213 | 0001| what is the  | Easy | - | -  |
-| 214 | 0001| what is the  | Easy | - | -  |
-| 215 | 0001| what is the  | Easy | - | -  |
-| 216 | 0001| what is the  | Easy | - | -  |
-| 217 | 0001| what is the  | Easy | - | -  |
-| 218 | 0001| what is the  | Easy | - | -  |
-| 219 | 0001| what is the  | Easy | - | -  |
-| 220 | 0001| what is the  | Easy | - | -  |
+| 201 | 2252|  Dynamic Pivoting of a Table | Hard | - | -  |
+| 202 | 2253| Dynamic Unpivoting of a Table | Hard | - | -  |
+| 203 | 2292| Products With Three or More Orders in Two Consecutive Years  | Medium | - | -  |
+| 204 | 2298| Tasks Count in the Weekend  | Medium | - | -  |
+| 205 | 2308| Arrange Table by Gender | | Medium | - | -  |
+| 206 | 2314| The First Day of the Maximum Recorded Degree in Each City | Medium | - | -  |
+| 207 | 2324|  Product Sales Analysis IV  | Medium | - | -  |
+| 208 | 2329|  Product Sales Analysis V  | Easy | - | -  |
+| 209 | 2339| All the Matches of the League  | Easy | - | -  |
+| 210 | 2346|  Compute the Rank as a Percentage  | Medium | - | -  |
+| 211 | 2356| Number of Unique Subjects Taught by Each Teacher  | Easy | - | -  |
+| 212 | 2362| Generate the Invoice | Hard | - | -  |
+| 213 | 2372| Calculate the Influence of Each Salesperson | Medium | - | -  |
+| 214 | 2377| Sort the Olympic Table  | Easy | - | -  |
+| 215 | 2388| Change Null Values in a Table to the Previous Value | Medium | - | -  |
+| 216 | 2394| Employees With Deductions | Medium | - | -  |
+| 217 | 2474| Customers With Strictly Increasing Purchases  | Hard | - | -  |
+| 218 | 2480| Form a Chemical Bond | Easy | - | -  |
+| 219 | 2494| Merge Overlapping Events in the Same Hall  | Hard | - | -  |
+| 220 | 2504| Concatenate the Name and the Profession  | Easy | - | -  |
