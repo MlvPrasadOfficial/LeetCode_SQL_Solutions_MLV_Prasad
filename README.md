@@ -152,26 +152,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 138 | 1667| Fix Names in a Table | Easy | - | -  |
 | 139 | 1677| Product's Worth Over Invoices  | Easy | - | -  |
 | 140 | 1683| Invalid Tweets | Easy | - | -  |
-| 141 | 0001| what is the  | Easy | - | -  |
-| 142 | 0001| what is the  | Easy | - | -  |
-| 143 | 0001| what is the  | Easy | - | -  |
-| 144 | 0001| what is the  | Easy | - | -  |
-| 145 | 0001| what is the  | Easy | - | -  |
-| 146 | 0001| what is the  | Easy | - | -  |
-| 147 | 0001| what is the  | Easy | - | -  |
-| 148 | 0001| what is the  | Easy | - | -  |
-| 149 | 0001| what is the  | Easy | - | -  |
-| 150 | 0001| what is the  | Easy | - | -  |
-| 151 | 0001| what is the  | Easy | - | -  |
-| 152 | 0001| what is the  | Easy | - | -  |
-| 153 | 0001| what is the  | Easy | - | -  |
-| 154 | 0001| what is the  | Easy | - | -  |
-| 155 | 0001| what is the  | Easy | - | -  |
-| 156 | 0001| what is the  | Easy | - | -  |
-| 157 | 0001| what is the  | Easy | - | -  |
-| 158 | 0001| what is the  | Easy | - | -  |
-| 159 | 0001| what is the  | Easy | - | -  |
-| 160 | 0001| what is the  | Easy | - | -  |
+| 141 | 1693| Daily Leads and Partners  | Easy | - | -  |
+| 142 | 1699| Number of Calls Between Two Persons  | Medium | - | -  |
+| 143 | 1709|Biggest Window Between Visits  | Medium | - | -  |
+| 144 | 1715| Count Apples and Oranges  | Medium | - | -  |
+| 145 | 1729|Find Followers Count  | Easy | - | -  |
+| 146 | 1731| The Number of Employees Which Report to Each Employee  | Easy | - | -  |
+| 147 | 1741| Find Total Time Spent by Each Employee | Easy | - | -  |
+| 148 | 1747|Leetflex Banned Accounts | Medium | - | -  |
+| 149 | 1757| Recyclable and Low Fat Products  |  Easy | - | -  |
+| 150 | 1767| Find the Subtasks That Did Not Execute  | Hard | - | -  |
+| 151 | 1777| Product's Price for Each Store  | Easy | - | -  |
+| 152 | 1783| Grand Slam Titles  | Medium | - | -  |
+| 153 | 1789| Primary Department for Each Employee| Easy | - | -  |
+| 154 | 1795| Rearrange Products Table  | Easy | - | -  |
+| 155 | 1809| Ad-Free Sessions  | Easy | - | -  |
+| 156 | 1811| Find Interview Candidates  | Medium | - | -  |
+| 157 | 1821| Find Customers With Positive Revenue this Year | Easy | - | -  |
+| 158 | 1831| Maximum Transaction Each Day | Medium | - | -  |
+| 159 | 1841| League Statistics | Medium | - | -  |
+| 160 | 1843| Suspicious Bank Accounts | Medium | - | -  |
 | 161 | 0001| what is the  | Easy | - | -  |
 | 162 | 0001| what is the  | Easy | - | -  |
 | 163 | 0001| what is the  | Easy | - | -  |
