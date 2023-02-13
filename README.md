@@ -12,11 +12,11 @@ If you find this channel and this repository helpful, you can Support by donatin
 
 |S.No | Ques.No | Question Name | Category | Solution video | Code |
 |-----|----------|----------|----------|----------|----------|
-| 01 | 0175| Combine Two Tables  | Easy | - | -  |
-| 02 | 0176|Second Highest Salary001| what is the   | Easy | - | -  |
-| 03 | 0001| what is the  | Easy | - | -  |
-| 04 | 0001| what is the  | Easy | - | -  |
-| 05 | 0001| what is the  | Easy | - | -  |
+| 01 | 175| Combine Two Tables  | Easy | - | -  |
+| 02 | 176| Second Highest Salary  | Easy | - | -  |
+| 03 | 177| Nth Highest Salary  | Easy | - | -  |
+| 04 | 178| Rank Scores  | Easy | - | -  |
+| 05 | 180| Consecutive Numbers  | Easy | - | -  |
 | 06 | 0001| what is the  | Easy | - | -  |
 | 07 | 0001| what is the  | Easy | - | -  |
 | 08 | 0001| what is the  | Easy | - | -  |
