@@ -1,11 +1,11 @@
 # LeetCode SQL - MLV Prasad
 Hi, I am [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/).
 
-I am a Deep-Learning Enthusiast , i create content on Youtube on Various topics of Data Science.
+I am a Deep-Learning Enthusiast ,I create content on Youtube on Various topics of Data Science.
 
 This repository is an **All in one** Code Solution Repository  of [LEETCODE SQL QUESTIONS (220+)](https://leetcode.com/problemset/database/?page=1) and video Explainations on my Channel here: [Youtube](https://www.youtube.com/channel/UCSikPPf1TKQuemjF8tI3buQ)
 
-If you find this channel and this repository helpful, you can Support by donating [PATREON](https://www.patreon.com/mlvprasadofficial)
+If you find this channel and this repository helpful, you can Support by donating [PATREON](https://www.patreon.com/mlvprasadofficial) 💰
 
 
 |S.No | Ques.No | Question Name | Category | Solution video | Code |
