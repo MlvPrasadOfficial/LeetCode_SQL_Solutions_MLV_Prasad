@@ -12,7 +12,7 @@ If you find this channel and this repository helpful, you can Support by donatin
 
 |S.No | Ques.No | Question Name | Category | Solution video | Code |
 |-----|----------|----------|----------|----------|----------|
-| 01 | 0001| what is the  | Easy | - | -  |
+| 01 | 175| Combine Two Tables  | Easy | - | -  |
 | 02 | 0001| what is the  | Easy | - | -  |
 | 03 | 0001| what is the  | Easy | - | -  |
 | 04 | 0001| what is the  | Easy | - | -  |
