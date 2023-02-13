@@ -216,7 +216,7 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 202 | 2253| Dynamic Unpivoting of a Table | Hard | - | -  |
 | 203 | 2292| Products With Three or More Orders in Two Consecutive Years  | Medium | - | -  |
 | 204 | 2298| Tasks Count in the Weekend  | Medium | - | -  |
-| 205 | 2308| Arrange Table by Gender | | Medium | - | -  |
+| 205 | 2308| Arrange Table by Gender |  Medium | - | -  |
 | 206 | 2314| The First Day of the Maximum Recorded Degree in Each City | Medium | - | -  |
 | 207 | 2324|  Product Sales Analysis IV  | Medium | - | -  |
 | 208 | 2329|  Product Sales Analysis V  | Easy | - | -  |
