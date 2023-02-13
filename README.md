@@ -172,26 +172,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 158 | 1831| Maximum Transaction Each Day | Medium | - | -  |
 | 159 | 1841| League Statistics | Medium | - | -  |
 | 160 | 1843| Suspicious Bank Accounts | Medium | - | -  |
-| 161 | 0001| what is the  | Easy | - | -  |
-| 162 | 0001| what is the  | Easy | - | -  |
-| 163 | 0001| what is the  | Easy | - | -  |
-| 164 | 0001| what is the  | Easy | - | -  |
-| 165 | 0001| what is the  | Easy | - | -  |
-| 166 | 0001| what is the  | Easy | - | -  |
-| 167 | 0001| what is the  | Easy | - | -  |
-| 168 | 0001| what is the  | Easy | - | -  |
-| 169 | 0001| what is the  | Easy | - | -  |
-| 170 | 0001| what is the  | Easy | - | -  |
-| 171 | 0001| what is the  | Easy | - | -  |
-| 172 | 0001| what is the  | Easy | - | -  |
-| 173 | 0001| what is the  | Easy | - | -  |
-| 174 | 0001| what is the  | Easy | - | -  |
-| 175 | 0001| what is the  | Easy | - | -  |
-| 176 | 0001| what is the  | Easy | - | -  |
-| 177 | 0001| what is the  | Easy | - | -  |
-| 178 | 0001| what is the  | Easy | - | -  |
-| 179 | 0001| what is the  | Easy | - | -  |
-| 180 | 0001| what is the  | Easy | - | -  |
+| 161 | 1853| Convert Date Format | Easy | - | -  |
+| 162 | 1867|  Orders With Maximum Quantity Above Average | Medium | - | -  |
+| 163 | 1873| Calculate Special Bonus | Easy | - | -  |
+| 164 | 1875| Group Employees of the Same Salary | Medium | - | -  |
+| 165 | 1890| The Latest Login in 2020  | Easy | - | -  |
+| 166 | 1892| Page Recommendations II | Hard | - | -  |
+| 167 | 1907|  Count Salary Categories | Medium | - | -  |
+| 168 | 1917| leetcodify Friends Recommendations| Hard | - | -  |
+| 169 | 1919| Leetcodify Similar Friends  | Hard | - | -  |
+| 170 | 1934| Confirmation Rate | Medium | - | -  |
+| 171 | 1939| Users That Actively Request Confirmation Messages | Easy| - | -  |
+| 172 | 1949| Strong Friendship  | Medium | - | -  |
+| 173 | 1951| All the Pairs With the Maximum Number of Common Followers  | Medium | - | -  |
+| 174 | 1965| Employees With Missing Information | Easy | - | -  |
+| 175 | 1972| First and Last Call On the Same Day | Hard | - | -  |
+| 176 | 1978| Employees Whose Manager Left the Company  | Easy | - | -  |
+| 177 | 1988| Find Cutoff Score for Each School | Medium | - | -  |
+| 178 | 1990| Count the Number of Experiments| Medium| - | -  |
+| 179 | 2004| The Number of Seniors and Juniors to Join the Company | Hard | - | -  |
+| 180 | 2010| The Number of Seniors and Juniors to Join the Company II| Hard | - | -  |
 | 181 | 0001| what is the  | Easy | - | -  |
 | 182 | 0001| what is the  | Easy | - | -  |
 | 183 | 0001| what is the  | Easy | - | -  |
