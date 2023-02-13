@@ -92,26 +92,26 @@ If you find this channel and this repository helpful, you can Support by donatin
 | 78 | 1204|Last Person to Fit in the Bus | Medium | - | -  |
 | 79 | 1205|Monthly Transactions II | Medium | - | -  |
 | 80 | 1211| Queries Quality and Percentage | Easy | - | -  |
-| 81 | 0001| what is the  | Easy | - | -  |
-| 82 | 0001| what is the  | Easy | - | -  |
-| 83 | 0001| what is the  | Easy | - | -  |
-| 84 | 0001| what is the  | Easy | - | -  |
-| 85 | 0001| what is the  | Easy | - | -  |
-| 86 | 0001| what is the  | Easy | - | -  |
-| 87 | 0001| what is the  | Easy | - | -  |
-| 88 | 0001| what is the  | Easy | - | -  |
-| 89 | 0001| what is the  | Easy | - | -  |
-| 90 | 0001| what is the  | Easy | - | -  |
-| 91 | 0001| what is the  | Easy | - | -  |
-| 92 | 0001| what is the  | Easy | - | -  |
-| 93 | 0001| what is the  | Easy | - | -  |
-| 94 | 0001| what is the  | Easy | - | -  |
-| 95 | 0001| what is the  | Easy | - | -  |
-| 96 | 0001| what is the  | Easy | - | -  |
-| 97 | 0001| what is the  | Easy | - | -  |
-| 98 | 0001| what is the  | Easy | - | -  |
-| 99 | 0001| what is the  | Easy | - | -  |
-| 100 | 0001| what is the  | Easy | - | -  |
+| 81 | 1212| Team Scores in Football Tournament  | Medium | - | -  |
+| 82 | 1225| Report Contiguous Dates | Hard | - | -  |
+| 83 | 1241| Number of Comments per Post  | Easy | - | -  |
+| 84 | 1251| Average Selling Price  | Easy | - | -  |
+| 85 | 1264|Page Recommendations | Medium | - | -  |
+| 86 | 1270| All People Report to the Given Manager |Medium | - | -  |
+| 87 | 1280| Students and Examinations | Easy | - | -  |
+| 88 | 1285| Find the Start and End Number of Continuous Ranges| Medium | - | -  |
+| 89 | 1294| Weather Type in Each Country| Easy | - | -  |
+| 90 | 1303| Find the Team Size | Easy | - | -  |
+| 91 | 1308| Running Total for Different Genders | Medium | - | -  |
+| 92 | 1321| Restaurant Growth | Medium | - | -  |
+| 93 | 1322| Ads Performance  | Easy | - | -  |
+| 94 | 1327|List the Products Ordered in a Period | Easy | - | -  |
+| 95 | 1336| Number of Transactions per Visit | Hard | - | -  |
+| 96 | 1341| Movie Rating  | Medium | - | -  |
+| 97 | 1350| Students With Invalid Departments  | Easy | - | -  |
+| 98 | 1355| Activity Participants | Medium | - | -  |
+| 99 | 1364| Number of Trusted Contacts of a Customer | Medium | - | -  |
+| 100 | 1369| Get the Second Most Recent Activity| Hard | - | -  |
 | 101 | 0001| what is the  | Easy | - | -  |
 | 102 | 0001| what is the  | Easy | - | -  |
 | 103 | 0001| what is the  | Easy | - | -  |
