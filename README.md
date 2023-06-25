@@ -1,12 +1,12 @@
-# solutions will be posted by 30 JUNE 2023
+# Solutions will be posted by 30 JUNE 2023
 # LeetCode SQL - MLV Prasad
 Hi, I am [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/).
 
-I am a Deep-Learning Enthusiast ,I create content on Youtube on Various topics of Data Science.
+I am a Deep-Learning Enthusiast,I create content on Youtube on Various topics of Data Science.
 
 This repository is an **All in one** Code Solution Repository  of [LEETCODE SQL QUESTIONS (220+)](https://leetcode.com/problemset/database/?page=1) and video Explanations on my Channel here: [Youtube](https://www.youtube.com/channel/UCSikPPf1TKQuemjF8tI3buQ)
 
-If you find this channel and this repository helpful, you can Support by donating at [PATREON](https://www.patreon.com/mlvprasadofficial) 💰
+If you find this channel and this repository helpful, you can Support by subscribing to it...💫
 
 
 
