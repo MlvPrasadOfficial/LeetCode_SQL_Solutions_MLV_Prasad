@@ -1,4 +1,4 @@
-# Solutions will be posted by 30 JUNE 2023
+# Solutions will be posted by 15  july 2023
 # LeetCode SQL - MLV Prasad
 Hi, I am [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/).
 
